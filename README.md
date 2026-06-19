@@ -60,4 +60,4 @@ The skill covers these packages:
 
 ## Source Course
 
-This skill is derived from the [Python for Remote Sensing and GIS](https://spatialthoughts.com/courses/python-remote-sensing/) course by SpatialThoughts.
+This skill is derived from the [Cloud Native Remote Sensing with Python](https://spatialthoughts.com/courses/python-remote-sensing/) course by SpatialThoughts.
