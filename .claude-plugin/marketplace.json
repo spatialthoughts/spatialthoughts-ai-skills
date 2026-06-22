@@ -10,7 +10,7 @@
   },
   "plugins": [
     {
-      "name": "spatialthoughts-ai-skills",
+      "name": "cloud-native-remote-sensing",
       "source": "./",
       "description": "Claude Code skills for cloud-native remote sensing and geospatial analysis",
       "version": "1.0.0",
