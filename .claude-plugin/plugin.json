@@ -1,0 +1,11 @@
+{
+  "name": "spatialthoughts-ai-skills",
+  "description": "Claude Code skills for cloud-native remote sensing and geospatial analysis",
+  "version": "1.0.0",
+  "author": {
+    "name": "spatialthoughts"
+  },
+  "license": "MIT",
+  "keywords": ["geospatial", "remote-sensing", "cloud-native", "xarray", "stac"],
+  "skills": ["./skills/cloud-native-remote-sensing"]
+}

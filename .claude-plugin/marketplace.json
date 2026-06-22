@@ -1,0 +1,30 @@
+{
+  "name": "spatialthoughts-ai-skills",
+  "id": "spatialthoughts-ai-skills",
+  "owner": {
+    "name": "spatialthoughts"
+  },
+  "metadata": {
+    "description": "Claude Code skills for geospatial and remote sensing workflows by SpatialThoughts",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "spatialthoughts-ai-skills",
+      "source": "./",
+      "description": "Claude Code skills for cloud-native remote sensing and geospatial analysis",
+      "version": "1.0.0",
+      "author": {
+        "name": "spatialthoughts"
+      },
+      "keywords": [
+        "geospatial",
+        "remote-sensing",
+        "cloud-native",
+        "xarray",
+        "stac"
+      ],
+      "category": "workflow"
+    }
+  ]
+}
