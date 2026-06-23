@@ -18,7 +18,14 @@ Add this repo as a plugin marketplace source, then install the skill:
 
 ```
 /plugin marketplace add spatialthoughts/spatialthoughts-ai-skills
+```
+
+```
 /plugin install cloud-native-remote-sensing@spatialthoughts-ai-skills
+```
+
+```
+/reload-plugins
 ```
 
 Once installed, invoke the skill with:
